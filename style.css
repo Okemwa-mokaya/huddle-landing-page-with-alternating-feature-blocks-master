@@ -237,6 +237,9 @@ a{
       grid-row: 1/2;
       text-align: start;
     }
+    .left1{
+      text-align: start;
+    }
     .footer-sect{
       display: flex;
       padding: 0 50px;
